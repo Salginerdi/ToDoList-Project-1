@@ -1,1 +1,1 @@
-# JS_ToDoList_Project
+# ToDoList Project 1 with JavaScript
